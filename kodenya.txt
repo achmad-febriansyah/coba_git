@@ -1,10 +1,10 @@
 git status
 	=> untuk melihat status
-git add
+git add .
 	=> untuk menambahkan sementara
-git commit 
+git commit -m "isi pesannya"
 	=> untuk menambahkan file selamanya insyaa allah
 git log
 	=> untuk melihat perubahan
-git checkout
+git checkout 8af89a
 	=> untuk pindah ke commit tertentu
