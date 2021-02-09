@@ -1,0 +1,10 @@
+git status
+	=> untuk melihat status
+git add
+	=> untuk menambahkan sementara
+git commit 
+	=> untuk menambahkan file selamanya insyaa allah
+git log
+	=> untuk melihat perubahan
+git checkout
+	=> untuk pindah ke commit tertentu
