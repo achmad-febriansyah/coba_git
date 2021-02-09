@@ -8,3 +8,7 @@ git log
 	=> untuk melihat perubahan
 git checkout 8af89a
 	=> untuk pindah ke commit tertentu
+git clone https://github.com/al;kdfjoadfja;dfjl;a
+	=> untuk mengambil dari github
+git push 
+	=> untuk ngirim ke github
